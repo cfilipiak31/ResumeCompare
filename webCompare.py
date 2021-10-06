@@ -1,5 +1,5 @@
 from selenium import webdriver
-from selenium.webdriver.common.keys import Keys
+import re
 
 driver = webdriver.Chrome('./chromedriver')
 
@@ -26,7 +26,7 @@ file1 = open('resume.txt','r')
 for line in file1:
     for word in line.split():
         wordcount +=1
-        word = word.lower()
+        word = re.sub('\W+','', word.lower())
         if word not in do_not_include:
             dict1[word] = dict1.get(word,0)+ 1
             count1 +=1
@@ -34,14 +34,13 @@ print('Most common in resume:',sorted(dict1, key=dict1.get, reverse=True)[:10])
 
 qual = 0    # flag that sets if we've hit the qualificaitons section
 for word in jobdesc:
-    word = word.lower()
+    word = re.sub('\W+','', word.lower()) # regular expression to remove special characters, lowercase
     if qual == 0:
         if (word == "qualification") or (word == "qualifications"):
             qual = 1
     if qual == 1:
         if word == "job":
             qual = 0
-        print(word)
         if word not in do_not_include:
             dict2[word] = dict2.get(word,0)+ 1
             count2+=1
@@ -61,8 +60,6 @@ covered = 100 - (100*len(dict2) / count2)
 print('Word Count:',wordcount)
 print(int(covered), '% covered')
 print('Missing:',dict2)
-
-
 
 
 driver.close()
