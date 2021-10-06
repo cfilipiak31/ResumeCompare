@@ -1,0 +1,18 @@
+Develop and manage cross-functional programs, facilitating relationships across multiple teams to identify risks, manage dependencies and optimize resources.
+Drive visibility, accountability, and execution across their areas of software development for the organization.
+Understand technology requirements, roadmap, dependencies, evolution, and develop a plan for mitigating risks and delivering features that meet the requirements across multiple products.
+Establish expertise in the technology area, becoming the go-to escalation point for execution, leader for driving visibility across the program, and orchestrator for managing the integration across your program area.
+Resolve conflicts, maintain clarity on priorities and drive progress on execution.
+Drive technical excellence within the team, coordinating and contributing to engineering deliverables including architectural diagrams, specifications, launch criteria, and test plans.
+Provide hands-on program management during analysis, design, development, testing, implementation, and post implementation phases.
+Work cross-functionally to develop best practices and development processes in a quickly-changing and dynamic environment, drive impact through deployment of key initiatives and garner adoption of those processes.
+Minimum Qualifications
+B.S. in Computer Science or a related technical discipline, or equivalent experience.
+5+ years of software engineering, systems engineering, hardware engineering, or technical product/program management experience.
+Experience leading technology investments across multiple products or product families from innovation to delivery.
+Demonstrated experience leading execution across highly ambiguous, complex products and programs, with experience making technical and product tradeoffs balancing business needs and technical constraints.
+Knowledge of user needs, gathering requirements, and defining scope.
+Experience operating autonomously across multiple teams, demonstrated critical thinking, and thought leadership.
+Experience in leading complex execution across multiple teams in different time zones, anticipating roadblocks and creating a path forward.
+Analytical and problem-solving experience with large-scale systems.
+Proven communicator who can translate high-level goals into tangible action plans, and vice-versa & expertise communicating with technical and non-technical stakeholders.

@@ -1,0 +1,36 @@
+Led aerospace safety cross functional projects which reduced $25M NPV in weight, recurring cost, manufacturing, and required maintenance for the airplane customers
+
+Modeled fuel heat loads enabling a 400+lb weight reduction, $71M NPV
+
+Composed 140+ aircraft systems requirements and prepared part specification requirements for suppliers
+
+Developed validated hydraulic thermal model for new aircraft and reduced data processing time to <8% of original using automation to sort and format input and output data
+
+Guided a 12 person team through transition to Lean Agile as a certified Scrum Master, managing workload and performance metrics on the TFS server through VBA software
+
+Lead completion of System FMEAs Common Mode Analysis and Significant Latent Failure Analysis and drove engineering solutions for fault trees as part of completion of SSAs
+
+Managed integration, requirements verification, safety and reliability analysis for certification of 4 hydraulic components
+
+Graduate instructor for fundamentals of electromagnetics, explained complex concepts to 4 separate classes of undergraduate students across multiple disciplines
+
+Published written research on new way to image auditory perception in the brain based on in-ear infrared sensor/detector probe
+
+Created Simulink model and verification tests for aircraft pump run logic
+
+Experienced with model based systems development tools such as CAFTA and NoMagic for design of new aircraft systems
+
+Hands-on construction of optical test equipment , including a customized broad spectrum fiber optic laser source, for use in laboratory detection of brain trauma in animals through near-infrared spectroscopy
+
+Automated testing of waveguides using LabVIEW to control power input and record output detected from a photodiode
+
+Grew Organic Light Emitting Diodes in thermal vacuum chamber and used an interference pattern to outcouple light for greater efficiency
+
+Led qualification testing of hydraulic hardware on the engine, controlling for exposure to flames, vibration , and fluid flow
+
+Programmed Python scripts to automatically analyze flight test data and identify system faults, reducing the need for daily manual inspection
+
+   • Managed 4 different hydraulic & electrical hardware components, driving progress to qualification across multiple functional teams and verifying all technical requirements were met
+    • Led certification of 17 installations on the engine for fire safety, including all component procurement, conformity inspections, procedures, tests, and analysis documents. Weekly presentations to FAA/Boeing leadership to ensure proper visibility to meet all regulations
+    • Organized airplane-wide certification inspections for the hydraulic system, coordinating changing timelines with manufacturing teams, scientific imaging groups, and FAA representatives
+    • Led 3 cross-functional product studies which reduced $25 Million NPV in weight, recurring cost, manufacturing, and required maintenance for the airplane customers

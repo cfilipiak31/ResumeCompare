@@ -1,0 +1,51 @@
+Charles Filipiak
+Seattle, WA 98115, cfilipiak31@gmail.com, 419-509-3185
+
+Data-driven, versatile electrical engineer experienced in making design decisions for the next century of commercial airplanes and working hands-on with optics experiments in over 5 years in research labs. Background in coordinating work across multiple stakeholders and teaching concepts with clarity.
+
+Professional Experience
+The Boeing Company 								    	      Everett, WA
+Mech/Hyd Design Engineer & Equipment Manager (similar role to Program Manager)	      Feb 2020– Present
+
+    • Managed 4 different hydraulic & electrical hardware components, driving progress to qualification across multiple functional teams and verifying all technical requirements were met
+
+    • Led testing of the hydraulic system on the engine for fire safety, including all component procurement, conformity inspections, procedures, and analysis documents. Daily communication with FAA representatives to ensure proper deliverables were provided to meet all regulations
+
+    • Created a new technical strategy, combining analysis and temperature data monitoring, to assure sufficient performance and reliability to overcome a major airplane hazard during a rapid climb
+
+    • Organized airplane certification inspections for the hydraulic system, coordinating changing timelines with manufacturing teams, scientific imaging groups, and FAA representatives
+
+	Mech/Hyd Systems Design Engineer – New Airplane Product Development		  Nov 2018 – Feb 2020
+
+    • Led 3 cross-functional product studies which reduced $25M NPV in weight, recurring cost, manufacturing, and required maintenance for the airplane customers
+
+    • Created a hydraulic thermal model to characterize fuel heat loads enabling a 400+lb weight reduction, equivalent to an estimated $71M over the life of the product
+
+    • Guided a 12 person team through transition to Agile as a certified Scrum Master, managing workload and performance metrics on the TFS server through VBA software
+
+	University of Michigan									  Ann Arbor, MI
+	Graduate Student Instructor & Academic Researcher			  		   Sept 2016-Nov 2018
+
+    • Partnered closely with medical professionals to conduct animal studies, and built a novel laser system for detecting traumatic brain injury in pigs by measuring blood oxygen levels
+
+    • Published healthcare research on new way to image auditory perception in the brain used an in-ear infrared sensor/detector probe, comparing healthy human subjects to those with tinnitus
+      (Zhai, Tianqu, et al. "Tinnitus and auditory cortex; Using adapted functional near‐infrared‐spectroscopy to expand brain imaging in humans."Laryngoscope Investigative Otolaryngology 6.1 (2021): 137-144.)
+
+    • Instructor for Fundamentals of Electromagnetics, teaching technical concepts to 4 separate classes of 20+ undergraduate students in electrical engineering
+
+Education
+University of Notre Dame
+South Bend, IN
+Bachelor’s of Science in Electrical Engineering
+August 2012 – May 2016
+University of Michigan
+Ann Arbor, MI
+Master’s of Science in Electrical Engineering
+September 2016 – April 2018
+
+Skills
+MATLAB/Simulink   Python   Visual Basic   Easy5   SolidWorks   C   LabVIEW
+
+Spanish (Intermediate)     Certified Agile Scrum Master - SAFe4(Feb 2019)
+
+Applied Machine Learning in Python – Univ of Michigan, Coursera (Oct 2018)
